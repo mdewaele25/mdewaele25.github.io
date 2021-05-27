@@ -18,10 +18,10 @@ Syntax highlighted code block
 
 Miles is a cool kid:
 
-# Reason 1:
+### Reason 1:
 - he has cool style
 
-## Reason 2:
+### Reason 2:
 - his confidence is average
 
 ### Check out these other projects:
@@ -29,5 +29,5 @@ Miles is a cool kid:
 
 [Project GAEA](https://mdewaele25.github.io/Project-GAEA/)
 
-# Check out this picture of miles and po:
+### Check out this picture of miles and po:
 ![happy](./miles_and_po2.JPG)
