@@ -1,3 +1,4 @@
+<!---
 ```
 Syntax highlighted code block
 
@@ -15,6 +16,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+-->
 
 Miles is a cool kid:
 
