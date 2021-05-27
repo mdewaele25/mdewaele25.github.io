@@ -21,7 +21,7 @@ Syntax highlighted code block
 I am a 2021 Purdue University graduate in Aerospace Engineering with a focus in Dynamics and Control and a Computer Science minor.
 
 ## Projects
-- [Resume](https://mdewaele25.github.io/Resume/)
+- [**Resume**](https://mdewaele25.github.io/Resume/)
 - [RC Boat](https://mdewaele25.github.io/RC-boat/)
 - [Project GAEA](https://mdewaele25.github.io/Project-GAEA/)
 
@@ -31,5 +31,5 @@ I am a 2021 Purdue University graduate in Aerospace Engineering with a focus in 
 - [PSPE Chain Reaction Team](https://web.ics.purdue.edu/~pe/)
 
 ## Contact
-Email: mildewaele@gmail.com
+Email: mildewaele@gmail.com   
 Phone: 630.725.8648
