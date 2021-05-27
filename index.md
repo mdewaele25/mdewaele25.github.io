@@ -26,4 +26,8 @@ Miles is a cool kid:
 
 ### Check out these other projects:
 [RC Boat](https://mdewaele25.github.io/RC-boat/)
+
 [Project GAEA](https://mdewaele25.github.io/Project-GAEA/)
+
+# Check out this picture of miles and po:
+![happy](./miles_and_po2.JPG)
