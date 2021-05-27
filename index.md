@@ -17,9 +17,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 -->
-
+<center>
 <img src="./headshot.png" width="150" height="200">
-
+</center>
+  
 # About
 I am a 2021 Purdue University graduate in Aerospace Engineering with a focus in Dynamics and Control and a Computer Science minor.
 
