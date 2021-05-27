@@ -18,7 +18,7 @@ Syntax highlighted code block
 ```
 -->
 ### About
-I am a 2021 Purdue University graduate in Aerospace Engineering with a focus in Dynamics and Control and a Computer Science minor.
+I am a 2021 Purdue University graduate in Aerospace Engineering with a focus in Dynamics and Control and a Computer Science minor.   
 [Resume](https://mdewaele25.github.io/Resume/)
 
 ### Projects
