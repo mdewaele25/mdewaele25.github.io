@@ -25,8 +25,8 @@ Syntax highlighted code block
 I am a 2021 Purdue University graduate in Aerospace Engineering with a focus in Dynamics and Control and a Computer Science minor.
 
 # Links
-- [**Resume**](https://mdewaele25.github.io/Miles_DeWaele_Resume.pdf/)
-- [**CV**](https://mdewaele25.github.io/Miles_DeWaele_CV.pdf/)
+- [**Resume**](https://mdewaele25.github.io/Miles_DeWaele_Resume.pdf)
+- [**CV**](https://mdewaele25.github.io/Miles_DeWaele_CV.pdf)
 - [Github](https://github.com/mdewaele25)
 - [Linkedin](https://www.linkedin.com/in/miles-dewaele-45269a154/)
 - [PSPE Chain Reaction Team](https://web.ics.purdue.edu/~pe/)
@@ -34,7 +34,7 @@ I am a 2021 Purdue University graduate in Aerospace Engineering with a focus in 
 # Projects
 - [RC Boat](https://mdewaele25.github.io/RC-boat/)
 - [Project GAEA](https://mdewaele25.github.io/Project-GAEA/)
-- [Experimental Rocket XR-1](https://mdewaele25.github.io/Experimental_PVC_Rocket_XR-1.pdf/)
+- [Experimental Rocket XR-1](https://mdewaele25.github.io/Experimental_PVC_Rocket_XR-1.pdf)
 
 # Contact
 Email: mildewaele@gmail.com   
