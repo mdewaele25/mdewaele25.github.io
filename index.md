@@ -18,7 +18,7 @@ Syntax highlighted code block
 ```
 -->
 <center>
-<img src="./headshot.png" width="150" height="100">
+<img src="./headshot.png" width="150" height="200">
 </center>
   
 # About
