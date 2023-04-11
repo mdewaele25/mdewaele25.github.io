@@ -21,7 +21,7 @@ Syntax highlighted code block
 </center>
 
 # About
-I am a 2021 Purdue University graduate in Aerospace Engineering with a focus in Dynamics and Control and a Computer Science minor.
+I am currently a Platform Integration Engineer at The Boeing Company in St. Charles, Missouri.  I graduated from Purdue University in 2021 with a degree in Aerospace Engineering with a focus in Dynamics and Control and a Computer Science minor.
 
 # Links
 - [**Resume**](https://mdewaele25.github.io/Miles_DeWaele_Resume.pdf)
