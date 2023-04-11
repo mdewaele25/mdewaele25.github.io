@@ -27,7 +27,7 @@ I am currently a Platform Integration Engineer at The Boeing Company in St. Char
 - [**Resume**](https://mdewaele25.github.io/Miles_DeWaele_Resume.pdf)
 - [**CV**](https://mdewaele25.github.io/Miles_DeWaele_CV.pdf)
 - [Github](https://github.com/mdewaele25)
-- [Linkedin](https://www.linkedin.com/in/miles-dewaele-45269a154/)
+- [LinkedIn](https://www.linkedin.com/in/miles-dewaele-45269a154/)
 - [PSPE Chain Reaction Team](https://web.ics.purdue.edu/~pe/)
 
 # Projects
